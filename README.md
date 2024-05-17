@@ -3,7 +3,7 @@
 Goals of this project:
 
 Use Visual Studio Code
-Use GitHub Copilot (write stock.py, output picture is <a href="https://github.com/oooFredooo/GithubCopilotTestProject/Output.jpeg"> here </a>)
+Use GitHub Copilot (write stock.py, output picture is <a href="https://github.com/oooFredooo/GithubCopilotTestProject/blob/master/Output.jpeg"> here </a>)
 Use GitHub Copilot chat commands:
 /fix
 /debug
