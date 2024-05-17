@@ -1,3 +1,9 @@
+"""
+    Get Tesla stock daily data from alphavantage,
+    convert data to dataframe with pandas,
+    and change data into a graph with matplotlib.
+"""
+
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 
